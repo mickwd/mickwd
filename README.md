@@ -10,9 +10,9 @@ I'm currently focused on systems-level software design, exploring deterministic 
 <summary>Want to know more about me?</summary>
 <br />
 
-- <img src="https://img.icons8.com/ios-filled/16/000000/domain.png" alt="Website Icon" /> **Website:** [mickwd.com](https://mickwd.com)  
-- <img src="https://img.icons8.com/ios-filled/16/000000/linkedin.png" alt="LinkedIn Icon" /> **LinkedIn:** [linkedin.com/in/thiago](https://www.linkedin.com/in/thiago-n-sanchez/)  
-- <img src="https://img.icons8.com/ios-filled/16/000000/new-post.png" alt="Email Icon" /> **Email:** [hello@mickwd.com](mailto:hello@mickwd.com)  
-- <img src="https://img.icons8.com/ios-filled/16/000000/github.png" alt="GitHub Icon" /> **GitHub:** [mickwd](https://github.com/mickwd)  
+- **Website:** [mickwd.com](https://mickwd.com)  
+- **LinkedIn:** [linkedin.com/in/thiago](https://www.linkedin.com/in/thiago-n-sanchez/)  
+- **Email:** [hello@mickwd.com](mailto:hello@mickwd.com)  
+- **GitHub:** [mickwd](https://github.com/mickwd)  
 
 </details>
