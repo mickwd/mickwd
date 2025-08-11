@@ -12,7 +12,7 @@ I'm currently focused on systems-level software design, exploring deterministic 
 
 - **Website:** [mickwd.com](https://mickwd.com)  
 - **LinkedIn:** [linkedin.com/in/thiago](https://www.linkedin.com/in/thiago-n-sanchez/)  
-- **Email:** [hello@mickwd.com](mailto:hello@mickwd.com)  
+- **Email:** [thiago@studybuddy.cc](mailto:thiago@studybuddy.cc)  
 - **GitHub:** [mickwd](https://github.com/mickwd)  
 
 </details>
