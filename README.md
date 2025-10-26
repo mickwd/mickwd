@@ -2,7 +2,7 @@
 ### Hi there! 👋 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mickwd.mickwd">
 
-Computer Science Student from Buenos Aires <img src="https://raw.githubusercontent.com/ashleedawg/flags/master/AR.png" width="20px" alt="AR flag" />
+Computer Science Student from Buenos Aires
 
 I'm currently focused on systems-level software design, exploring deterministic computation, memory safety, and instruction-level optimization. I work at the boundary between hardware and abstraction — where bare-metal meets logic.
 
@@ -12,7 +12,7 @@ I'm currently focused on systems-level software design, exploring deterministic 
 
 - **Website:** [mickwd.com](https://mickwd.com)  
 - **LinkedIn:** [linkedin.com/in/thiago](https://www.linkedin.com/in/thiago-n-sanchez/)  
-- **Email:** [thiago@studybuddy.cc](mailto:thiago@studybuddy.cc)  
+- **Discord:** [@mickwd](https://discord.com/)
 - **GitHub:** [mickwd](https://github.com/mickwd)  
 
 </details>
