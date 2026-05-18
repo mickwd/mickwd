@@ -10,8 +10,6 @@ I'm currently focused on systems-level software design, exploring deterministic 
 <summary>Want to know more about me?</summary>
 <br />
 
-- **Website:** [mickwd.com](https://mickwd.com)  
-- **LinkedIn:** [linkedin.com/in/thiago](https://www.linkedin.com/in/thiago-n-sanchez/)  
 - **Discord:** [@mickwd](https://discord.com/)
 - **GitHub:** [mickwd](https://github.com/mickwd)  
 
