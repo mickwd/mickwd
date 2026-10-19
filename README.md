@@ -1,16 +1,10 @@
-
-### Hi there! 👋 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mickwd.mickwd">
-
-Computer Science Student from Buenos Aires
-
-I'm currently focused on systems-level software design, exploring deterministic computation, memory safety, and instruction-level optimization. I work at the boundary between hardware and abstraction — where bare-metal meets logic.
-
-<details>
-<summary>Want to know more about me?</summary>
-<br />
-
-- **Discord:** [@mickwd](https://discord.com/)
-- **GitHub:** [mickwd](https://github.com/mickwd)  
-
-</details>
+```text
+┌───────────┬─────────────────────────────────────────┐
+│ user      │ Thiago · Computer Science Student       │
+│ location  │ Buenos Aires, Argentina                 │
+│ focus     │ systems-level software design           │
+│ interests │ determinism · memory safety · low-level │
+│ main stack│ C# · .NET · C · PHP                     │
+│ discord   │ @mickwd                                 │
+└───────────┴─────────────────────────────────────────┘
+```
